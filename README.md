@@ -18,3 +18,5 @@ In the first method we need to connect our metamask wallet of ETH blockchain hav
 
 # Rai and Dai pool 
 This pool can give you much more flux token reward as its apr is much more higher which represents it farm much more token faster. Apr is the monetary value or reward that investors may earn by making their crypto tokens accessible for loans, taking into consideration the interest rates and any other fees that borrowers must pay, is referred to as the annual percentage rate (APR). 
+![IMG_20211031_202636](https://user-images.githubusercontent.com/84318174/139589488-18c218d3-04e7-4b17-bfc9-e1165a5c2972.jpg)
+
