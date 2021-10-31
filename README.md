@@ -16,3 +16,5 @@ After reaching out reflexer lab platform here we are going to get much more rewa
 In the first method we need to connect our metamask wallet of ETH blockchain have funds like rai or dai. After successful connection there is showing a lots of pool of different defi token but we need to find out the best pool for us with our defi token which we hold in our wallet.
 ![IMG_20211031_200756](https://user-images.githubusercontent.com/84318174/139588807-01271f23-58f6-4d15-920b-93e1f283135f.jpg)
 
+# Rai and Dai pool 
+This pool can give you much more flux token reward as its apr is much more higher which represents it farm much more token faster. Apr is the
