@@ -1,3 +1,4 @@
+![IMG_20211031_200756](https://user-images.githubusercontent.com/84318174/139588787-c075dffb-5e2d-4b57-b43d-7e38875b4d02.jpg)
 # optimization-of-rai-yield-on-Uniswap 
 
 Hello everyone we hope all you are good. Now let's move to our main focus how we can optimize Rai yield on Uniswap V3.
@@ -13,4 +14,5 @@ After reaching out reflexer lab platform here we are going to get much more rewa
 # Yield Rai 
 
 In the first method we need to connect our metamask wallet of ETH blockchain have funds like rai or dai. After successful connection there is showing a lots of pool of different defi token but we need to find out the best pool for us with our defi token which we hold in our wallet.
+![IMG_20211031_200756](https://user-images.githubusercontent.com/84318174/139588807-01271f23-58f6-4d15-920b-93e1f283135f.jpg)
 
