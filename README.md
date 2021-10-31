@@ -1,4 +1,4 @@
-![IMG_20211031_200756](https://user-images.githubusercontent.com/84318174/139588787-c075dffb-5e2d-4b57-b43d-7e38875b4d02.jpg)
+
 # optimization-of-rai-yield-on-Uniswap 
 
 Hello everyone we hope all you are good. Now let's move to our main focus how we can optimize Rai yield on Uniswap V3.
