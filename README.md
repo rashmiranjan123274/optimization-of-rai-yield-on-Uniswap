@@ -21,4 +21,4 @@ This pool can give you much more flux token reward as its apr is much more highe
 ![IMG_20211031_202636](https://user-images.githubusercontent.com/84318174/139589488-18c218d3-04e7-4b17-bfc9-e1165a5c2972.jpg)
 After click on this pool it redirect to new page of uniswap v3 which show the pool as like 
 ![IMG_20211031_203104](https://user-images.githubusercontent.com/84318174/139589695-9995e8d9-3500-4f33-baa4-0daad46f7ee4.jpg)
-After reaching out in this page we gonna to connect our wallet with this dex on top right corner. After successful connection we are going to put amount rai and dai token want to stake in this pool. After enter the correct amount of token we are gonna to stake 
+After reaching out in this page we gonna to connect our wallet with this dex on top right corner. After successful connection we are going to put amount rai and dai token want to stake in this pool. After enter the correct amount of token we are gonna to stake in this pool with successful transaction.
